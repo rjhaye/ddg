@@ -1,7 +1,7 @@
 ---
 publish: "true"
 ---
-# Physical Activity Towards Health and Fitness 4
+# Physical Activity Towards Health & Fitness 4
 
 | File                                                                                     | Title                                        |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------- |
