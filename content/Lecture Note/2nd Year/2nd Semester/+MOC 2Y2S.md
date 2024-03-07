@@ -1,6 +1,48 @@
 ---
 publish: "true"
 ---
+# Object Oriented Programming
+
+| File | Title |
+| ---- | ----- |
+
+
+# Information Management
+
+| File | Title |
+| ---- | ----- |
+
+
+# Network Administration
+
+| File | Title |
+| ---- | ----- |
+
+
+# Human Computer Interaction
+
+| File | Title |
+| ---- | ----- |
+
+
+# Quantitative Methods with Modeling and Simulation
+
+| File | Title |
+| ---- | ----- |
+
+
+# BSIT Free Elective 2
+
+| File | Title |
+| ---- | ----- |
+
+
+# Integrative Programming and Technologies 1
+
+| File | Title |
+| ---- | ----- |
+
+
 # Physical Activity Towards Health & Fitness 4
 
 | File                                                                                     | Title                                        |
