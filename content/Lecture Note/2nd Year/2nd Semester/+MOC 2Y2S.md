@@ -27,9 +27,10 @@ publish: "true"
 
 # Quantitative Methods with Modeling and Simulation
 
-| File                                                                                   | Title                                                                              |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [[./(COMP 014) 2024-03-13\|(COMP 014) 2024-03-13]] | <ul><li>Orientation in Quantitative Methods with Modeling and Simulation</li></ul> |
+| File                                                                                   | Title                                                                                                                   |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[./(COMP 014) 2024-03-13\|(COMP 014) 2024-03-13]] | <ul><li>Orientation in Quantitative Methods with Modeling and Simulation</li></ul>                                      |
+| [[./(COMP 014) 2024-03-16\|(COMP 014) 2024-03-16]] | <ul><li>Motivations and Foundations</li><li>Introduction to Quantitative Methods with Modeling and Simulation</li></ul> |
 
 
 # BSIT Free Elective 2
