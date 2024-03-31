@@ -9,8 +9,9 @@ publish: "true"
 
 # Information Management
 
-| File | Title |
-| ---- | ----- |
+| File                                                                                   | Title                              |
+| -------------------------------------------------------------------------------------- | ---------------------------------- |
+| [[./(COMP 010) 2024-03-22\|(COMP 010) 2024-03-22]] | <ul><li>Database Concept</li></ul> |
 
 
 # Network Administration
