@@ -42,8 +42,9 @@ publish: "true"
 
 # Integrative Programming and Technologies 1
 
-| File | Title |
-| ---- | ----- |
+| File                                                                                   | Title                                  |
+| -------------------------------------------------------------------------------------- | -------------------------------------- |
+| [[./(INTE 202) 2024-03-25\|(INTE 202) 2024-03-25]] | <ul><li>Intro to PyCharm IDE</li></ul> |
 
 
 # Physical Activity Towards Health & Fitness 4
